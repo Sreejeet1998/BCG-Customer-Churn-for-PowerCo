@@ -1,7 +1,7 @@
 # BCG Customer Churn Analysis for PowerCo
 
 This project focuses on analyzing customer churn for PowerCo, a utility company. Using advanced data analysis and machine learning techniques, the project aims to predict which customers are likely to leave the service (churn), allowing for targeted interventions to retain high-value customers.
-Features
+# Features
 
     Data Preprocessing: Cleans and preprocesses customer data to handle missing values, outliers, and categorical variables.
     Churn Prediction Models: Implements multiple machine learning algorithms (e.g., Logistic Regression, Random Forest, XGBoost) to predict customer churn.
